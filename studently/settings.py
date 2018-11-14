@@ -37,8 +37,6 @@ STUDENTLY_APPS = [
 
 THIRD_PARTY_APPS = [
     'taggit',
-    # 'threadedcomments',
-    # 'django_comments',
 ]
 
 INSTALLED_APPS = [
