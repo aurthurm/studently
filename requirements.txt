@@ -1,8 +1,5 @@
-certifi==2018.8.24
 Django==2.1.1
 django-js-asset==1.1.0
 django-latexify==0.2.1
 django-mptt==0.9.1
 django-taggit==0.23.0
-pytz==2018.7
-wincertstore==0.2
